@@ -1,1 +1,1 @@
-# Color-Juggling
+# ColorJuggling
