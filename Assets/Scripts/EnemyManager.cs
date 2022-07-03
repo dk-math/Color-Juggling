@@ -14,6 +14,7 @@ public class EnemyManager : MonoBehaviour
     {
         // agent = GetComponent<UnityEngine.AI.NavMeshAgent>();
         // agent.destination = target.position;
+        
         rb = GetComponent<Rigidbody>();
     }
 
